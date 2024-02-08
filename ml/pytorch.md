@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # PYTORCH
 
 * What is a tensor in PyTorch, and how is it represented as a class?
