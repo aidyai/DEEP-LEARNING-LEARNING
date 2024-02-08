@@ -1,6 +1,6 @@
 # PYTORCH
 
-* What is a tensor in PyTorch, and how is it represented as a class?
+* What is a tensor in PyTorch, and How is it represented as a class?
 
 <pre class="language-python"><code class="lang-python"><strong>#code
 </strong>class TextRequest(BaseModel):
