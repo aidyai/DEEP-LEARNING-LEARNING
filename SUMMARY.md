@@ -1,7 +1,7 @@
 # Table of contents
 
-* [PYTORCH](README.md)
-
 ## ML
 
-* [1](ml/1.md)
+* [q\&a](README.md)
+  * [1.](ml/q-and-a/1..md)
+* [pytorch](ml/pytorch.md)
