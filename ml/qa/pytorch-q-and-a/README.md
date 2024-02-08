@@ -1,4 +1,24 @@
-# PYTORCH
+---
+cover: >-
+  https://images.unsplash.com/photo-1703982924533-22c9f7f34624?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDczNjMxNDh8&ixlib=rb-4.0.3&q=85
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# pytorch q\&a
 
 * What is a tensor in PyTorch, and How is it represented as a class?
 

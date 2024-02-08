@@ -3,5 +3,7 @@
 ## ml
 
 * [q\&a](README.md)
-  * [1](ml/qa/1.md)
-* [PYTORCH](ml/pytorch.md)
+  * [ml q\&a](ml/qa/ml-q-and-a/README.md)
+    * [1](ml/qa/ml-q-and-a/1.md)
+  * [pytorch q\&a](ml/qa/pytorch-q-and-a/README.md)
+    * [1](ml/qa/pytorch-q-and-a/1.md)
